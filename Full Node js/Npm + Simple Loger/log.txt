@@ -1,0 +1,6 @@
+[2024-08-31T15:19:02.209Z] User email: Saad@gmail.com
+[2024-08-31T15:19:02.211Z] User password: pass
+[2024-08-31T15:19:02.211Z] Error: Unable to connect to the database
+[2024-08-31T15:19:12.650Z] User email: s
+[2024-08-31T15:19:12.652Z] User password: s
+[2024-08-31T15:19:12.652Z] Error: Unable to connect to the database
